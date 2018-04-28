@@ -14,5 +14,7 @@
 * Model0.ipynb:
     Implementations of naive Bayes classifier, logistic regression, SVM, and NN models.
 * Model1.ipynb:
-    Implementation of LSTM with keras.    
+    Implementation of LSTM with keras.   
+    
+*NOTE: If the notebooks can not load properly, please try copying the notebook link to view at https://nbviewer.jupyter.org/.* 
 
