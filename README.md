@@ -2,7 +2,7 @@
 
 **LendingClub**
 * DataExploration0.ipynb: 
-    Data exploration, visualization, and feature engineering for 2014 LC loan data.
+    Data exploration, visualization, and feature engineering for Lending Club loan data.
 * Modeling0.ipynb: 
     Application of extreme gradient boosting tree (xgboost) to predict loan status with parameter tuning.
     
